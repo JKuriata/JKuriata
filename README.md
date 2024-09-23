@@ -4,7 +4,7 @@ Hi 👋 My name is Jay Kuriata
 Aspiring Web Developer
 ----------------------
 
-I started my coding journey learning Swift from Playground. From there signed up for my first Code Nation course which taught me the fundamentals of Python, HTML, and CSS. I am now on my second course in which I have continued developing my web development skills with Javascript and React.
+I have graduated from 2 Code Nation courses and am now working on my own projects while I look for a junior position to expand my skills. I am comfortable working with Python, HTML, CSS, Javascript, and React. 
 
 * 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [JK271096@outlook.com](mailto:JK271096@outlook.com)
